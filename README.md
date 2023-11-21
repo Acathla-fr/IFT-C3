@@ -1,6 +1,8 @@
 # IFT-C3
 Printed Circuit Board with an ESP32-C3
 
+Erratum: on the silkscreen, Rx pin should be 20 instead of 21, TX pin should be 21 instead of 20.
+
 GPIO 1 is optionnaly used for battery voltage measurement<br/>
 GPIO 2 and 3 are optionnaly used for audio<br/>
 GPIO 4 is optionnaly used for the light sensor<br/>
