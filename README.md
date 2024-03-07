@@ -2,6 +2,7 @@
 Printed Circuit Board with an ESP32-C3
 
 Erratum: on the silkscreen, pin 20 should be named 20/Rx and pin 21 should be named 21/TX.
+The switch cuts the battery from everything else in the circuit. So battery cannot be charged without turning the circuit on.
 
 GPIO 1 is optionnaly used for battery voltage measurement<br/>
 GPIO 2 and 3 are optionnaly used for audio<br/>
