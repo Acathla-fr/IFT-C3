@@ -2666,7 +2666,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/09229dee-1d0a-41d4-905e-766eebc442ea")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4121,7 +4121,7 @@
 			)
 		)
 		(path "/d946fcd1-ebbd-4cd0-a32d-0ae249ab2dae")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4933,7 +4933,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 0 1.679999 90)
 			(layer "F.Fab")
 			(uuid "e2a7a3d1-06fb-4b99-97f2-062002467c04")
@@ -4985,7 +4985,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/f7eb072f-09d5-4538-af6d-95fe0c26fcff")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5908,7 +5908,7 @@
 		)
 		(property ki_fp_filters "LED*IN-PI554FCH*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/50deec19-820e-4c76-948a-f6c8186ac909")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6172,7 +6172,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/65b189ac-acbd-4473-bbcf-08b913f18d4d")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_circle
@@ -7892,7 +7892,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/aa091444-b259-4a8f-8a07-a6ff95a12ad7")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8795,7 +8795,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/49ffb913-051d-4b34-80be-57ece203421a")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9011,7 +9011,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/5afe1f23-41d3-46f4-82f9-a4f54d1addfe")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -9217,7 +9217,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/59584f2e-582f-4a0f-aa11-7f0a2baaee0c")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9433,7 +9433,7 @@
 		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/00832e4e-d920-4f66-8f52-c25f01b15d7c")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9652,7 +9652,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9fbca504-d654-41db-969b-0b169a132caf")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10188,7 +10188,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/9804ce71-6757-43f3-833e-ffdf6a8a00a4")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -10456,7 +10456,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/bc936750-2ee0-4157-b6e7-8aa0490a3974")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10674,7 +10674,7 @@
 			)
 		)
 		(path "/329fa809-db7e-4761-bd72-5800d2495fa4")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11107,7 +11107,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 0 -1.679999 90)
 			(layer "B.Fab")
 			(uuid "92177f77-cdc7-41e8-820c-964459b0e451")
@@ -11163,7 +11163,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/81e2b7d6-ca9d-4da0-b9bf-174b96c3fbd7")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11444,7 +11444,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/90807c3f-443d-4711-a3c7-b618ee47721f")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11663,7 +11663,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/c60e90f2-66b5-4d17-8ea5-e762b9be4118")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11815,7 +11815,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C5"
-			(at 0 -1.700001 360)
+			(at 0 -1.700001 0)
 			(layer "B.SilkS")
 			(uuid "b6f65c23-e2ac-4c77-8a7e-5369ad07d879")
 			(effects
@@ -11826,8 +11826,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100nF"
-			(at 0 -1.679999 360)
+		(property "Value" "100n"
+			(at 0 -1.679999 0)
 			(layer "B.Fab")
 			(uuid "cdb568c6-9ff0-400e-ac75-5b8e350102b7")
 			(effects
@@ -11882,7 +11882,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/1095c0b9-350c-4c3c-89d3-804ae328c7d8")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11986,7 +11986,7 @@
 			(uuid "778538b2-a8d4-4ba0-adba-e639d0c857f1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "fd2caf39-2704-49d4-8ef8-9edcaf619e14")
 			(effects
@@ -12098,7 +12098,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/c0c66ddd-d41b-4c56-97da-b09fbdad5c79")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12314,7 +12314,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/4a3d7156-abd4-4789-a782-8b731d3a6574")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -12582,7 +12582,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ea45489e-733d-4531-8d75-523bec971bc4")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13014,7 +13014,7 @@
 			)
 		)
 		(path "/10b57ada-5846-474d-a652-439464b3f966")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13878,7 +13878,7 @@
 			)
 		)
 		(path "/66b2f9c2-f4ed-48fc-bff7-2e1eeaf10b95")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14699,7 +14699,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/bab45dd6-3ec9-4f36-b010-a041eaaa1402")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14915,7 +14915,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/a27da592-6ccd-45fb-ac55-958e3508afec")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -15065,7 +15065,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "7cbf39a4-a678-49e0-9d02-250766a7086a")
@@ -15337,7 +15337,7 @@
 		)
 		(property ki_fp_filters "LED*IN-PI554FCH*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/5e8c78f9-a72c-4052-b405-f1a9e7afa78e")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15602,7 +15602,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a0968bed-ce76-46b4-8137-7db76c9d2005")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16123,7 +16123,7 @@
 		)
 		(property ki_fp_filters "SOT?223* SOT?89* TO?220* TO?252* TO?263*")
 		(path "/956d8895-ccbc-45b5-b55a-dcc2df9a50f7")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16586,7 +16586,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "67d7b557-2482-455b-8f7b-71c8703a2122")
@@ -16858,7 +16858,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/eb4868a4-dbff-4ae8-9655-9c4d47082455")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -17063,7 +17063,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/97f32bc1-d82a-4b3c-9b7f-270e0abb3624")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18792,7 +18792,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/97acec41-40a3-4caf-88d3-fd325dfc003a")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19008,7 +19008,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7beaf8ef-adfa-4c13-ae4e-2566f8bde528")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19224,7 +19224,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d12e2a6d-0ad4-4c28-910c-7f19069f77d1")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20071,7 +20071,7 @@
 			)
 		)
 		(path "/fd578491-7e69-40b3-bce6-aa03160655c2")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -20594,7 +20594,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9328f2c3-43ef-44bf-a613-8af809c03538")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -22205,7 +22205,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/11f24fef-86b0-4058-b321-eef85d54eb60")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22421,7 +22421,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8b7160d5-d18c-4d31-a650-d0791ca7708a")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22729,7 +22729,7 @@
 			)
 		)
 		(path "/f1894938-fa77-4f90-a6a9-9b4d2641cb57")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -23298,7 +23298,7 @@
 			)
 		)
 		(path "/7dadeb27-8cfb-4cbc-8696-28237676bce1")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -23639,7 +23639,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/2a018a62-9abe-4fe1-a26c-6b93eaf7adc2")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -25772,7 +25772,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "d2066317-592b-4ab5-9b3d-1546e257fbe2")
@@ -25828,7 +25828,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/a11f747b-0527-4823-a4d0-40383ee2533c")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26047,7 +26047,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/ca50665e-bd6b-4cde-bc09-c2c14c9dcb59")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
@@ -26254,7 +26254,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/78864054-f310-4fc1-87a4-de8f8ab3cf27")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26685,7 +26685,7 @@
 			)
 		)
 		(path "/33094781-5bda-41bc-98cb-a770fcb3294e")
-		(sheetname "Racine")
+		(sheetname "Root")
 		(sheetfile "IFT-C3.kicad_sch")
 		(attr smd)
 		(fp_line

@@ -829,7 +829,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 152.4 88.9 0)
 			(effects
 				(font
