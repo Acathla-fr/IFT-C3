@@ -3648,6 +3648,312 @@
 				)
 			)
 		)
+		(symbol "PTS526_SK15_SMTR2_LFS:PTS526_SK15_SMTR2_LFS"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at -1.27 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "PTS526_SK15_SMTR2_LFS"
+				(at -10.922 -6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "PTS526SK15SMTR2LFS"
+				(at -9.652 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
+				(at -10.922 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Tact 5.2 x 5.2, 1.5 mm H, 260gf, G leads, No ground pin, metal actuator"
+				(at -10.922 -13.716 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.65"
+				(at -10.922 -16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "C & K COMPONENTS"
+				(at -10.922 -18.796 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "PTS526 SK15 SMTR2 LFS"
+				(at -10.922 -21.336 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "611-PTS526SK15SMR2L"
+				(at -10.922 -23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS526-SK15-SMTR2-LFS?qs=UXgszm6BlbF5Ezp94JAQtw%3D%3D"
+				(at -10.922 -26.416 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "PTS526 SK15 SMTR2 LFS"
+				(at -10.922 -28.956 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pts526-sk15-smtr2-lfs/ck?region=nac"
+				(at -10.922 -31.496 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "PTS526_SK15_SMTR2_LFS_0_1"
+				(circle
+					(center -3.302 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -3.302 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 -2.54) (xy 3.81 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 2.54) (xy 3.81 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 1.27) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 3.302 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 3.302 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -6.35 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -6.35 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -2.54 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PTS526_SK15_SMTR2_LFS_1_1"
+				(rectangle
+					(start -3.81 5.08)
+					(end 3.81 -4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+		)
 		(symbol "Regulator_Linear:AZ1117-3.3"
 			(pin_names
 				(offset 0.254)
@@ -3973,292 +4279,6 @@
 								(size 1.27 1.27)
 							)
 						)
-					)
-				)
-			)
-		)
-		(symbol "Switch:SW_Push_Dual"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_Push_Dual"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Push button switch, generic, symbol, four pins"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_Push_Dual_0_1"
-				(circle
-					(center -2.032 -2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.032 2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.508) (xy 0 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.508) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.016) (xy 0 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.032) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.048) (xy 0 3.556)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.81) (xy 0 5.588)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -1.27) (xy -2.54 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 3.81) (xy -2.54 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "SW_Push_Dual_1_1"
-				(rectangle
-					(start -3.175 5.715)
-					(end 3.175 -4.445)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
 					)
 				)
 			)
@@ -5275,16 +5295,16 @@
 		(uuid "05c7b312-a8fb-4dfd-9525-dee0cf98ff9a")
 	)
 	(junction
-		(at 77.47 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "13688371-3af0-4df4-9a74-5d6001719044")
-	)
-	(junction
 		(at 262.89 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f037c6f-7ada-44eb-801b-1d904ef26c1f")
+	)
+	(junction
+		(at 91.44 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2106f9a5-39b7-4f61-9e6c-e6d533fa5d87")
 	)
 	(junction
 		(at 273.05 71.12)
@@ -5311,10 +5331,22 @@
 		(uuid "365c8d03-cb8d-4a2a-b622-2fb6320373d9")
 	)
 	(junction
+		(at 96.52 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cd61a37-ecbd-46b8-8e39-bfdf484b7ef3")
+	)
+	(junction
 		(at 39.37 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e06ed97-04c8-4ea4-baaa-8c4fbd76a06d")
+	)
+	(junction
+		(at 78.74 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f14b6e7-b168-4d6f-9f76-f1afef851f11")
 	)
 	(junction
 		(at 83.82 57.15)
@@ -5353,12 +5385,6 @@
 		(uuid "89e8bfd4-c434-4b06-9549-9220019a8b87")
 	)
 	(junction
-		(at 92.71 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8b776d14-dfe9-404e-af61-bfaa25b3fefd")
-	)
-	(junction
 		(at 266.7 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5383,10 +5409,28 @@
 		(uuid "a9d65d81-49cf-4854-a2d4-a962c4f9b769")
 	)
 	(junction
+		(at 179.07 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b095c56b-024e-4453-a9a5-84a731e37f53")
+	)
+	(junction
 		(at 203.2 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2a3bb22-be03-44cf-b74d-81715cbd9e02")
+	)
+	(junction
+		(at 171.45 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c00436b8-990b-4b9a-be88-802f8e7f32a7")
+	)
+	(junction
+		(at 179.07 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb471b63-d5ba-40e5-84f2-7c67431b3d91")
 	)
 	(junction
 		(at 60.96 33.02)
@@ -5428,6 +5472,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 77.47) (xy 191.77 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "039a28ba-5ab3-45f1-a372-407834148fc5")
+	)
+	(wire
+		(pts
 			(xy 115.57 124.46) (xy 115.57 130.81)
 		)
 		(stroke
@@ -5448,7 +5502,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 36.83) (xy 77.47 36.83)
+			(xy 73.66 39.37) (xy 78.74 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5658,7 +5712,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 69.85) (xy 172.72 69.85)
+			(xy 162.56 69.85) (xy 171.45 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5725,6 +5779,16 @@
 			(type default)
 		)
 		(uuid "2cadeb7d-eec3-4783-a8e8-16b89956b684")
+	)
+	(wire
+		(pts
+			(xy 171.45 77.47) (xy 171.45 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e9c2554-0bb8-4113-b181-fffc9f87560a")
 	)
 	(wire
 		(pts
@@ -5948,6 +6012,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 29.21) (xy 91.44 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49a50cbd-9455-460a-bd46-c2707558443f")
+	)
+	(wire
+		(pts
 			(xy 53.34 85.09) (xy 55.245 85.09)
 		)
 		(stroke
@@ -5965,6 +6039,16 @@
 			(type default)
 		)
 		(uuid "49e16bba-112f-44ce-b445-50c48b406f85")
+	)
+	(wire
+		(pts
+			(xy 175.26 82.55) (xy 179.07 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5082ed9b-adec-4569-a271-6151490adb98")
 	)
 	(wire
 		(pts
@@ -6098,7 +6182,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 36.83) (xy 92.71 36.83)
+			(xy 91.44 34.29) (xy 96.52 34.29)
 		)
 		(stroke
 			(width 0)
@@ -6128,6 +6212,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 29.21) (xy 91.44 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "708d3016-2117-4efc-bd30-06effd2bef51")
+	)
+	(wire
+		(pts
 			(xy 110.49 119.38) (xy 124.46 119.38)
 		)
 		(stroke
@@ -6145,6 +6239,16 @@
 			(type default)
 		)
 		(uuid "720c2f86-5ee9-439e-98f2-bd07652fa422")
+	)
+	(wire
+		(pts
+			(xy 91.44 39.37) (xy 91.44 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "727cfbb0-70ad-47ca-a10d-f47fa1791e37")
 	)
 	(wire
 		(pts
@@ -6208,16 +6312,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 31.75) (xy 77.47 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "780061ed-67fa-494b-b6e6-23ff91932c7a")
-	)
-	(wire
-		(pts
 			(xy 162.56 72.39) (xy 172.72 72.39)
 		)
 		(stroke
@@ -6278,16 +6372,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 31.75) (xy 92.71 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81f99ef5-9f71-4024-a487-d0d84cb77fbf")
-	)
-	(wire
-		(pts
 			(xy 255.27 71.12) (xy 261.62 71.12)
 		)
 		(stroke
@@ -6338,6 +6422,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 74.93) (xy 179.07 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8717088b-f6c4-47e1-af4b-e5f5d64e5043")
+	)
+	(wire
+		(pts
 			(xy 38.1 53.34) (xy 41.91 53.34)
 		)
 		(stroke
@@ -6345,16 +6439,6 @@
 			(type default)
 		)
 		(uuid "8809261b-17c7-4475-a76c-69b3434eb11e")
-	)
-	(wire
-		(pts
-			(xy 77.47 36.83) (xy 80.01 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cf3c5af-eec5-48f3-a693-5d8c240d90fd")
 	)
 	(wire
 		(pts
@@ -6378,7 +6462,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 36.83) (xy 73.66 44.45)
+			(xy 73.66 39.37) (xy 73.66 44.45)
 		)
 		(stroke
 			(width 0)
@@ -6488,6 +6572,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 85.09) (xy 179.07 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a04b91ca-a394-42ef-8b1c-dbb77e77558e")
+	)
+	(wire
+		(pts
 			(xy 179.07 96.52) (xy 182.88 96.52)
 		)
 		(stroke
@@ -6565,6 +6659,16 @@
 			(type default)
 		)
 		(uuid "a5e59f21-3f84-4b23-b027-2af0cb549ad5")
+	)
+	(wire
+		(pts
+			(xy 78.74 34.29) (xy 78.74 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a655c1ee-c723-4eb2-bb73-0c8793ae7ae3")
 	)
 	(wire
 		(pts
@@ -6848,6 +6952,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 85.09) (xy 179.07 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c684dd59-c34f-4021-87e5-cc9e2240aeb2")
+	)
+	(wire
+		(pts
 			(xy 96.52 36.83) (xy 96.52 41.91)
 		)
 		(stroke
@@ -7088,6 +7202,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 41.91) (xy 78.74 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4a2ce66-1c7a-4bd3-9846-82d872e04a06")
+	)
+	(wire
+		(pts
 			(xy 165.1 139.7) (xy 165.1 140.97)
 		)
 		(stroke
@@ -7105,6 +7229,16 @@
 			(type default)
 		)
 		(uuid "e721d666-4b8d-483b-96e0-f12d3dd4d1ab")
+	)
+	(wire
+		(pts
+			(xy 171.45 69.85) (xy 172.72 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e946f6e6-aabf-452e-9e9b-ecac458ad61c")
 	)
 	(wire
 		(pts
@@ -7208,6 +7342,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 82.55) (xy 191.77 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efb7a936-137d-418e-9c29-e3411d906979")
+	)
+	(wire
+		(pts
 			(xy 130.81 187.96) (xy 127 187.96)
 		)
 		(stroke
@@ -7215,6 +7359,16 @@
 			(type default)
 		)
 		(uuid "f038ca2b-1e19-4082-9ca4-1a159d9ecc4d")
+	)
+	(wire
+		(pts
+			(xy 179.07 77.47) (xy 171.45 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0550399-8021-47c5-9668-5b3a062929f5")
 	)
 	(wire
 		(pts
@@ -7228,6 +7382,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 74.93) (xy 179.07 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0dc0b7a-0965-46cd-9207-eb9033fb49d7")
+	)
+	(wire
+		(pts
 			(xy 83.82 64.77) (xy 87.63 64.77)
 		)
 		(stroke
@@ -7235,16 +7399,6 @@
 			(type default)
 		)
 		(uuid "f0ea4014-679e-4e2a-81cd-f619fc684ca8")
-	)
-	(wire
-		(pts
-			(xy 92.71 31.75) (xy 92.71 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f242589b-533f-44d9-ad9d-6282b5b3ea08")
 	)
 	(wire
 		(pts
@@ -7258,13 +7412,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 36.83) (xy 96.52 36.83)
+			(xy 78.74 41.91) (xy 78.74 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f830a2dd-8a5e-46d4-bfb5-c2fe27c4b72e")
+		(uuid "f603e6a9-6f42-4022-b863-eda144fd4c02")
 	)
 	(wire
 		(pts
@@ -7285,16 +7439,6 @@
 			(type default)
 		)
 		(uuid "f9bb3a38-4cea-4224-b4a9-13d4b86e7af2")
-	)
-	(wire
-		(pts
-			(xy 77.47 31.75) (xy 77.47 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa241dd1-4895-48b4-90cd-166e48c59322")
 	)
 	(wire
 		(pts
@@ -9396,80 +9540,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
-		(at 85.09 34.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10b57ada-5846-474d-a652-439464b3f966")
-		(property "Reference" "SW1"
-			(at 85.09 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_Dual"
-			(at 85.09 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "footprints:PTS526SM15SMTR2LFS"
-			(at 85.09 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 85.09 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, symbol, four pins"
-			(at 85.09 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a8c1c674-2404-4c04-bdc0-7d68ab9ad869")
-		)
-		(pin "4"
-			(uuid "8e7070d6-49cb-4e89-9337-3e75cf8cfb07")
-		)
-		(pin "3"
-			(uuid "db1b1618-0f73-4c40-88ff-b8f3feebd916")
-		)
-		(pin "1"
-			(uuid "754d0054-bd20-4b97-9d4b-e3842e5da0ce")
-		)
-		(instances
-			(project ""
-				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 22.86 116.84 0)
 		(unit 1)
@@ -10437,6 +10507,153 @@
 			(project "IFT-C3"
 				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PTS526_SK15_SMTR2_LFS:PTS526_SK15_SMTR2_LFS")
+		(at 85.09 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "372ac1d9-2953-4668-b889-9c54ff59afb8")
+		(property "Reference" "SW1"
+			(at 85.09 30.226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PTS526_SK15_SMTR2_LFS"
+			(at 85.09 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:PTS526SK15SMTR2LFS"
+			(at 75.438 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
+			(at 74.168 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Tact 5.2 x 5.2, 1.5 mm H, 260gf, G leads, No ground pin, metal actuator"
+			(at 74.168 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.65"
+			(at 74.168 53.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "C & K COMPONENTS"
+			(at 74.168 55.626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTS526 SK15 SMTR2 LFS"
+			(at 74.168 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "611-PTS526SK15SMR2L"
+			(at 74.168 60.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS526-SK15-SMTR2-LFS?qs=UXgszm6BlbF5Ezp94JAQtw%3D%3D"
+			(at 74.168 63.246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "PTS526 SK15 SMTR2 LFS"
+			(at 74.168 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pts526-sk15-smtr2-lfs/ck?region=nac"
+			(at 74.168 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cc46cffa-84cd-4411-a914-6c78cbb118b5")
+		)
+		(pin "3"
+			(uuid "d87e15d8-855e-472f-9af1-802ac6e4c058")
+		)
+		(pin "1"
+			(uuid "600aa6bc-8bf2-42c6-886b-4263ab1a5575")
+		)
+		(pin "4"
+			(uuid "03b4a32b-dbd0-4d9e-bcb7-1ac1adc95865")
+		)
+		(instances
+			(project "IFT-C3"
+				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -11431,6 +11648,73 @@
 			(project "IFT-C3"
 				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.26 82.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f7291aa-3a28-4c06-b78a-c90a82bc0bc5")
+		(property "Reference" "#PWR039"
+			(at 168.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 171.45 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af4f7179-4bd1-42c7-85db-0447c9349431")
+		)
+		(instances
+			(project "IFT-C3"
+				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -12512,6 +12796,153 @@
 			(project "IFT-C3"
 				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PTS526_SK15_SMTR2_LFS:PTS526_SK15_SMTR2_LFS")
+		(at 185.42 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "88c0fc13-1e83-449c-9ec3-487cc524b10d")
+		(property "Reference" "SW10"
+			(at 185.42 73.406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PTS526_SK15_SMTR2_LFS"
+			(at 185.42 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:PTS526SK15SMTR2LFS"
+			(at 175.768 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
+			(at 174.498 91.186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Tact 5.2 x 5.2, 1.5 mm H, 260gf, G leads, No ground pin, metal actuator"
+			(at 174.498 93.726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.65"
+			(at 174.498 96.266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "C & K COMPONENTS"
+			(at 174.498 98.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTS526 SK15 SMTR2 LFS"
+			(at 174.498 101.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "611-PTS526SK15SMR2L"
+			(at 174.498 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS526-SK15-SMTR2-LFS?qs=UXgszm6BlbF5Ezp94JAQtw%3D%3D"
+			(at 174.498 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "PTS526 SK15 SMTR2 LFS"
+			(at 174.498 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pts526-sk15-smtr2-lfs/ck?region=nac"
+			(at 174.498 111.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8ac439a6-74c5-4078-82be-c6ec0b8e0bd2")
+		)
+		(pin "3"
+			(uuid "f53ae581-9706-4d2a-a226-5852d621ff6b")
+		)
+		(pin "1"
+			(uuid "308a08cc-15a6-4e66-a616-5a811c88634c")
+		)
+		(pin "4"
+			(uuid "6a28e66f-99aa-45c8-b93c-4da915efc509")
+		)
+		(instances
+			(project "IFT-C3"
+				(path "/e3c93ece-56b2-4766-bc1b-caef6c1437a3"
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -15445,7 +15876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Local footprints:MSK12C02"
+		(property "Footprint" "footprints:MSK12C02"
 			(at 275.59 146.05 0)
 			(effects
 				(font
